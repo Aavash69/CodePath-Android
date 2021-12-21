@@ -9,7 +9,7 @@ It displays a default text message at the center of the application screen. Ther
 ### App Walk-though
 
 
-<img src="https://recordit.co/oNEyyYFKD7" width=300><br>
+<img src="http://g.recordit.co/oNEyyYFKD7.gif" width=300><br>
 
 
 
